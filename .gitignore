@@ -1,4 +1,6 @@
-gradlew/
+gradlew
 gradle/
 build.gradle
 .idea/
+.gradle/
+settings.gradle
